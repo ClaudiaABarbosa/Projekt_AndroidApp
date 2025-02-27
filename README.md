@@ -2,7 +2,7 @@
 Denna uppgift gick ut på att utveckla en mobilapplikation för Android inom ramen för FN:s globala hållbarhetsmål #4 – God utbildning för alla.
 
 ## 📚 Kursinformation
-Kurs:Systemutveckling för mobila applikationer [SAP200]
+Kurs: Systemutveckling för mobila applikationer [SAP200]
 
 Lärosäte: Högskolan Väst
 
